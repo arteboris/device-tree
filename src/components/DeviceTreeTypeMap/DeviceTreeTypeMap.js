@@ -14,7 +14,6 @@ class DeviceTreeTypeMap extends Component {
 
   render() {
     const { deviceTreeTypeMap } = this.props;
-    console.log(deviceTreeTypeMap);
     return (
       <>
         <table
