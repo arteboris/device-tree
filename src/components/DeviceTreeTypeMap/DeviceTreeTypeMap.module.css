@@ -1,0 +1,21 @@
+.demo_table {
+    margin-top: 100px;
+    margin-bottom: 100px;
+    font-family: sans-serif;
+    background-color: #efe;
+    border-collapse: collapse;
+    border: 1px solid #7a7;
+  }
+  
+  .demo_table > caption {
+    text-align: left;
+    font-weight: bold;
+    font-size: 200%;
+    border-bottom: .2em solid #4ca;
+    margin-bottom: .5em;
+  }
+  
+  .demo_table > thead > tr:first-child > th {
+    color: rgba(85, 85, 241, 0.658);
+  }
+  
